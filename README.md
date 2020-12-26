@@ -103,7 +103,7 @@ instagram reset pass bomb
         ["xpath=//span[@id='react-root']/section/main/div[2]/div/div/div[4]/form/label/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "husniyeoz0822"
+      "value": ""
     }, {
       "id": "ea265960-24f2-4bc8-abb9-fc7ceea0ae76",
       "comment": "",
